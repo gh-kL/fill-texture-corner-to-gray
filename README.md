@@ -20,7 +20,9 @@
 
 ## 使用方法
 
-1. 将`fill-texture-corner-to-gray.py`拷贝到图片文件夹。 
+1. 将`fill_texture_corner_to_gray.py`拷贝到图片文件夹。 
 2. 在该文件夹内打开`cmd`。
-3. 键入`python fill-texture-corner-to-gray.py`，回车。 
+3. 键入`python fill_texture_corner_to_gray.py`，回车。 
 4. 完成。
+
+> 注意：目标图片文件夹必须是英文路径。
