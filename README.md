@@ -2,9 +2,7 @@
 
 ## 效果
 
-原图：
-
-转换后：
+![alt 效果预览](https://github.com/gh-kL/fill-texture-corner-to-gray/blob/main/doc/preview.png)
 
 ## 安装依赖
 
