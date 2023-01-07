@@ -8,9 +8,9 @@
 
 ## 安装依赖
 
-先安装`Python3.x`。安装时需要勾选`Add Path（添加到环境变量）`
+1. 安装`Python3.x`。安装时需要勾选`Add Path（添加到环境变量）`
 
-打开`cmd`，依次安装如下依赖包：
+2. 打开`cmd`，依次安装如下依赖包：
 
 - pip install opencv-python
 - pip install matplotlib
